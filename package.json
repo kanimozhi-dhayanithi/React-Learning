@@ -1,0 +1,27 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanimozhi-dhayanithi/React-Learning.git"
+  },
+  "author": "kanimozhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanimozhi-dhayanithi/React-Learning/issues"
+  },
+  "homepage": "https://github.com/kanimozhi-dhayanithi/React-Learning#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
